@@ -1,0 +1,113 @@
+
+.topnav {
+    display: flex;
+    font-family: Poppins;
+    float: left;
+    text-align: right;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 17px;
+    color: #262626;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+  }
+
+  .topnav a{
+    color: #262626;
+    text-decoration: none;
+  }
+
+.contactus{
+    border-radius: 40px;
+background: #4CE0D7;
+}
+
+#ventusmagazine{
+    color: #FFF;
+font-family: Poppins;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 2.76px;
+}
+
+#welikegossip{
+     color: #FFF;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+div{
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+h1 {
+    color: #FFF;
+font-family: Poppins;
+font-size: 46px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+body {
+    font-family: Poppins;
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+background-color: #F9F9F9;
+margin-left: 50px;
+margin-right: 50px;
+}
+img {
+    height: 400px;
+}
+
+p {
+    font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.luxventus {
+    color: #262626;
+    font-family: Cinzel;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.read_more{
+    color: #4CE0D7;
+font-family: Poppins;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 2.88px;
+
+}
+
+
+
+footer {
+    display: flex;
+    flex-direction: column;
+    font-family: Poppins;
+    height: 200px;
+    width: 700px;
+margin-top: auto;
+margin-right: 50px;
+padding-right: 20px;
+border-radius: 40px 40px 0px 0px;
+background: #FFF;
+box-shadow: 6px 0px 6px 0px rgba(0, 0, 0, 0.05);
+}
